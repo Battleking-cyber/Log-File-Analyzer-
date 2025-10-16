@@ -1,7 +1,14 @@
 # Log-File-Analyzer-
 This tool helps system administrators, security testers, and developers quickly identify and analyze sensitive data or login attempts stored in log files.
  Output Report Example
+---++++++------------+++++++-----------------
+setup part 
 
+> Sudo git clone https://github.com/Battleking-cyber/Log-File-Analyzer-
+
+> chmod +x A1.sh
+> ./A1.sh
+---------------------------------------------
 Example saved file: search_results_20251016_143522.txt
 
 ===== IPs in /var/log/auth.log =====
